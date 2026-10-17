@@ -2,3 +2,9 @@
 ---
 
 @import "minimal-light";
+
+/* Scale the whole page up on wide screens so it fills more of the window.
+   Phones and narrow windows (under 1200px) keep the original layout. */
+@media screen and (min-width: 1200px) { .wrapper { zoom: 1.15; } }
+@media screen and (min-width: 1440px) { .wrapper { zoom: 1.25; } }
+@media screen and (min-width: 1800px) { .wrapper { zoom: 1.4; } }
