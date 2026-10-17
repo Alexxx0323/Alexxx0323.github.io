@@ -1,0 +1,45 @@
+# Basic Information
+title: Renfei (Alex) Zhang
+position: Ph.D. Student
+affiliation: Carnegie Mellon University
+affiliation_link: https://www.cmu.edu/
+email: az5 (at) andrew.cmu.edu
+
+# Search Engine Optimization (SEO)
+keywords: Renfei Zhang, Alex Zhang, Carnegie Mellon University, LLM reasoning, alignment, AI safety, reinforcement learning
+description: Renfei (Alex) Zhang is a Ph.D. student at Carnegie Mellon University working on LLM reasoning, alignment and safety.
+# Set this to your site's address once it is live, e.g. https://<your-github-username>.github.io/
+# canonical: https://<your-github-username>.github.io/
+
+# Links
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=SN_THZUAAAAJ
+twitter: https://x.com/alexxx_zzz6825
+# cv_link: assets/files/cv.pdf
+# github_link: https://github.com/<your-github-username>
+# linkedin: https://www.linkedin.com/in/<your-handle>
+
+# Images (profile picture and favicons for light and dark mode)
+avatar: ./assets/img/avatar.jpg
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnote: "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
+
+# Automatic dark theme
+auto_dark_mode: true
+
+# Font: "Serif" or "Sans Serif"
+font: "Serif"
+
+# The theme files (layouts, styles) are included in this repository, so no remote theme is needed.
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - minimal-light.gemspec
+  - vendor/
