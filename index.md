@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student at [Carnegie Mellon University](https://www.cmu.edu/). Before CMU, I received my B.Sc. in Computer Science from [Simon Fraser University](https://www.sfu.ca/).
+I am a first-year Computer Science Ph.D. student in the [Software and Societal Systems Department](https://s3d.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). Before CMU, I received my B.Sc. in Computer Science from [Simon Fraser University](https://www.sfu.ca/).
 
 ## Research Interests
 
