@@ -1,0 +1,26 @@
+main:
+
+  - title: Reinforcement Learning Improves Traversal of Parametric Knowledge in LLMs
+    authors: <strong>Renfei Zhang</strong>, Manasa Kaniselvan, Rylan Schaeffer, Niloofar Mireshghallah
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2511.05933
+    others: '<a href="https://arxiv.org/abs/2511.05933" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a> <strong> <i style="color:#e74d3c">Oral Presentation</i></strong>'
+    image: ./assets/img/teaser_emnlp26.png
+
+  - title: Reinforcement Learning on Benign Facts Amplifies Leakage of Memorized Private Data
+    authors: <strong>Renfei Zhang</strong>, Niloofar Mireshghallah
+    conference_short: NeurIPS-W
+    conference: NeurIPS 2026 Workshop on Trust-AI-Eval <strong>(TAE)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2608.21727
+    others: '<a href="https://arxiv.org/abs/2608.21727" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>'
+    image: ./assets/img/teaser_tae26.png
+
+  - title: "SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?"
+    authors: Kevin Han, <strong>Renfei Zhang</strong>, Kathy Wei, Hamed Mahdavi, Niloofar Mireshghallah, Amir Barati Farimani
+    conference_short: ICML-W
+    conference: ICML 2026 GenBio Workshop <strong>(GenBio)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2605.21740
+    code: https://github.com/t7rs/SMDD-Bench
+    page: https://smddbench.com/
+    image: ./assets/img/teaser_smdd26.png
