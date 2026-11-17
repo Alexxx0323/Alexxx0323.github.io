@@ -13,7 +13,7 @@ I am a first-year Computer Science Ph.D. student in the [Software and Societal S
 
 ## News
 
-- **[Aug. 2026]** I joined [Carnegie Mellon University](https://www.cmu.edu/) as a Computer Science Ph.D. student!
+- **[Aug. 2026]** I joined [Carnegie Mellon University](https://www.cmu.edu/) as a Ph.D. student!
 - **[Aug. 2026]** Our paper [Reinforcement Learning Improves Traversal of Parametric Knowledge in LLMs](https://arxiv.org/abs/2511.05933) is accepted to **EMNLP 2026** as an **oral presentation**!
 
 {% include_relative _includes/publications.md %}
