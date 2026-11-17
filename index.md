@@ -10,6 +10,7 @@ I am a first-year Computer Science Ph.D. student in the [Software and Societal S
 
 - **LLM Reasoning**
 - **Alignment and Safety**
+- **AI4Science**
 
 ## News
 
